@@ -10,3 +10,6 @@ Release/
 
 # Mac finder
 .DS_Store
+
+*.VC.db
+*.VC.opendb
